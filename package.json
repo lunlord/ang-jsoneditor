@@ -35,7 +35,6 @@
     "@angular/platform-browser-dynamic": "17.0.2",
     "@angular/router": "17.0.2",
     "jsoneditor": "*",
-    "ng-packagr": "^18.2.1",
     "rxjs": "*",
     "tslib": "^2.3.0",
     "webpack": "^5.88.2",
