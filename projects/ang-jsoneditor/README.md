@@ -3,10 +3,11 @@
 [![Build Status](https://travis-ci.org/mariohmol/ang-jsoneditor.svg?branch=master)](https://travis-ci.org/mariohmol/ang-jsoneditor)
 
 Angular Json Editor (wrapper for [jsoneditor](https://github.com/josdejong/jsoneditor)). View/Edit Json file with formatting.
+fork for 20.0.0 angular version (author git: https://github.com/mariohmol/ang-jsoneditor.git, contact: Mario Mol <mariohmol@gmail.com>, Manish Sodavadiya <manish_it56@yahoo.com>)
 
 [StackBlitz template](https://stackblitz.com/edit/ang-jsoneditor)
 
-Working with latest Angular 16. 
+Working with latest Angular 20. 
 
 ![Demo Image](/src/assets/printDemo.png)
 
